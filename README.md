@@ -1,4 +1,4 @@
-# api-by-spring
+# spring-boot-api-sample
 
 ## 페이스북 마케팅 API
 
